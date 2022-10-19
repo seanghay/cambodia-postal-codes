@@ -1,5 +1,11 @@
 # cambodia-postal-codes
 
+NPM
+
+```
+npm install cambodia-postal-codes
+```
+
 Serve via CDN
 
 ```
