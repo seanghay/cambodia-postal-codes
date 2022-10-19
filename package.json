@@ -1,8 +1,12 @@
 {
   "name": "cambodia-postal-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./cambodian-postal-codes.json",
-  "keywords": ["cambodia", "postalcode", "khmer"],
+  "keywords": [
+    "cambodia",
+    "postalcode",
+    "khmer"
+  ],
   "author": "Seanghay Yath <seanghay.dev@gmail.com>",
   "repository": "seanghay/cambodia-postal-codes",
   "license": "MIT"
